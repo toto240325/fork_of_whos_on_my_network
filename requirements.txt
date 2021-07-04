@@ -1,0 +1,5 @@
+Flask
+click
+peewee==3.13.1
+scapy
+requests
