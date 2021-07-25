@@ -7,7 +7,7 @@ from . import utils
 
 
 CONFIG_FILENAME = 'config.json'
-DATABASE_FILENAME = 'whos_on_my_network.sqlite'
+DATABASE_FILENAME = '/home/toto/db/whos_on_my_network.sqlite'
 PACKAGED_PLUGIN_FILE = '.packagedplugin'
 
 
