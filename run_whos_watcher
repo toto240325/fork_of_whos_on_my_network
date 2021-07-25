@@ -1,0 +1,8 @@
+# script to run whos_on_my_network watch
+#
+. /home/toto/Envs/whos_on_my_network/bin/activate
+cd /home/toto/whos_on_my_network
+python -m whos_on_my_network watch -n 192.168.0.1/24 -t 300 # >> ~/whos_on_my_network.log
+
+
+ 

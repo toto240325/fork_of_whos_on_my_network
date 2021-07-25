@@ -1,0 +1,7 @@
+# script to run whos_on_my_network webserver
+#
+. /home/toto/Envs/whos_on_my_network/bin/activate
+cd /home/toto/whos_on_my_network
+python -m whos_on_my_network start --host 192.168.0.148 --port 7000 
+
+ 
